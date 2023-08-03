@@ -1,0 +1,14 @@
+.footer-container {
+    background-color: #13293d;
+}
+
+.footer-card {
+    background-color: transparent;
+    color: #fff;
+    border: none;
+}
+
+.footer-title {
+    font-size: 1.5rem;
+    display: block;
+}

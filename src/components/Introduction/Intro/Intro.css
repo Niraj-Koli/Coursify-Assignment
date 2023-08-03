@@ -1,0 +1,37 @@
+.intro-card {
+    max-width: 800px;
+}
+
+.intro-title {
+    color: #ff1493;
+    font-weight: 700;
+}
+
+.intro-body {
+    color: #38015c;
+    font-weight: 500;
+}
+
+.intro-buttons-google,
+.intro-buttons-linkedin {
+    background: transparent;
+    font-size: 1.2rem;
+    font-weight: 600;
+    border: 1px solid;
+    padding: 0.7rem 1.2rem;
+    border-radius: 1rem;
+}
+
+.intro-buttons-google:hover {
+    background: linear-gradient(to left, #4285f4, #34a853, #fbbc05, #ea4335);
+    color: white;
+    border: 1px solid;
+    transition: all 0.3s ease-in-out;
+}
+
+.intro-buttons-linkedin:hover {
+    background: linear-gradient(to left, #0077b5, #00a0dc, #004e7e, #313335);
+    color: white;
+    border: 1px solid;
+    transition: all 0.3s ease-in-out;
+}

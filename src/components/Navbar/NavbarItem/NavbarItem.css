@@ -1,0 +1,13 @@
+.navbar-list-item {
+    font-size: 1.4rem;
+    margin: 0 1.2rem;
+    color: #00203f;
+    border-bottom: 3px solid transparent;
+    font-weight: 600;
+}
+
+.navbar-list-item:hover {
+    color: #00203f;
+    border-bottom: 3px solid #00203f;
+    transition: all 0.5s ease-in-out;
+}
